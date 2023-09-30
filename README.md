@@ -15,10 +15,11 @@ Telegram Mass Messenger is a Python script that allows you to send multiple mess
 1. **Clone the Repository:**
 
 ## Requirements
-1. **Install Dependencies:** - pip install `telethon`
+
+**Install Dependencies:** - pip install `telethon`
 
    
-##Set Up Your Telegram API Credentials:
+## Set Up Your Telegram API Credentials:
 
 - Obtain your API ID and API Hash by registering your application on the [Telegram API platform](https://my.telegram.org/auth).
 - Add your API credentials:
@@ -29,6 +30,6 @@ Telegram Mass Messenger is a Python script that allows you to send multiple mess
   Please add your friend telegram username as well
   ```
 
- ##Run the Script:  After running the script, you will be asked for your phone number(enter your country code as well) or password to make sure that it is you who is running the script, then after you are good to go
+ ## Run the Script:  After running the script, you will be asked for your phone number(enter your country code as well) or password to make sure that it is you who is running the script, then after you are good to go
 
 
