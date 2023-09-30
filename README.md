@@ -29,6 +29,6 @@ Telegram Mass Messenger is a Python script that allows you to send multiple mess
   Please add your friend telegram username as well
   ```
 
- ##Run the Script:
+ ##Run the Script:  After running the script, you will be asked for your phone number(enter your country code as well) or password to make sure that it is you who is running the script, then after you are good to go
 
 
