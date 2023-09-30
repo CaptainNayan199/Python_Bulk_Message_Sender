@@ -44,7 +44,14 @@ After running the script, you will be asked for your phone number(enter your cou
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-### Feel free to contribute to this project, report issues, or suggest improvements. Happy messaging! 😊 You can mail me at nayanpathak233199@gmail.com
+<details>
+<summary>👥 Feel Free to Contribute</summary>
+
+If you'd like to contribute to this project or have any questions, you can reach out to me at `nayanpathak233199@gmail.com` via email.
+
+Happy coding! 😊
+
+</details>
 
 
 
