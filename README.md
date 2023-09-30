@@ -8,9 +8,27 @@ Telegram Mass Messenger is a Python script that allows you to send multiple mess
 
 ## Features
 - 📝 Easily compose and send messages to multiple recipients.
-- 📋 Import recipient list from CSV files.
 - 🤖 Uses the official Telegram API for secure and reliable messaging.
 - 🛡️ Full respect for Telegram's terms of service and policies.
 
 ## Usage
 1. **Clone the Repository:**
+
+## Requirements
+1. **Install Dependencies:** - pip install `telethon`
+
+   
+
+**Set Up Your Telegram API Credentials:**
+- Obtain your API ID and API Hash by registering your application on the [Telegram API platform](https://my.telegram.org/auth).
+- Create a `.env` file in the project directory and add your API credentials:
+  ```
+  API_ID=your_api_id
+  API_HASH=your_api_hash
+  *Please add your friend telegram username as well
+  ```
+
+
+ **Run the Script:**
+
+
