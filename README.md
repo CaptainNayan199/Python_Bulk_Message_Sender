@@ -30,6 +30,21 @@ Telegram Mass Messenger is a Python script that allows you to send multiple mess
   Please add your friend telegram username as well
   ```
 
- ## Run the Script:  After running the script, you will be asked for your phone number(enter your country code as well) or password to make sure that it is you who is running the script, then after you are good to go
+ ## Run the Script:  
+After running the script, you will be asked for your phone number(enter your country code as well) or password to make sure that it is you who is running the script, then after you are good to go.
+
+
+## 🚫 Warnings
+- Be mindful of Telegram's policies and guidelines when using this script.
+- Do not use this script for spamming or harassment.
+- Respect the privacy and consent of your recipients.
+- Use this script responsibly and ethically.
+
+## 📜 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+### Feel free to contribute to this project, report issues, or suggest improvements. Happy messaging! 😊 You can mail me at nayanpathak233199@gmail.com
+
 
 
