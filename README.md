@@ -1,5 +1,5 @@
 
-# 🚀 Telegram Mass Messenger 🚀 ( Python Bulk Message Sender )
+## 🚀 Telegram Mass Messenger 🚀 ( Python Bulk Message Sender )
 
 ![Telegram Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png)
 
@@ -18,17 +18,17 @@ Telegram Mass Messenger is a Python script that allows you to send multiple mess
 1. **Install Dependencies:** - pip install `telethon`
 
    
+##Set Up Your Telegram API Credentials:
 
-**Set Up Your Telegram API Credentials:**
 - Obtain your API ID and API Hash by registering your application on the [Telegram API platform](https://my.telegram.org/auth).
-- Create a `.env` file in the project directory and add your API credentials:
+- Add your API credentials:
+
   ```
   API_ID=your_api_id
   API_HASH=your_api_hash
-  *Please add your friend telegram username as well
+  Please add your friend telegram username as well
   ```
 
-
- **Run the Script:**
+ ##Run the Script:
 
 
