@@ -14,4 +14,4 @@ f_username = 'Your friend username'
 
 # Now create a telegram client
 
-client TelegramClient()
+client = TelegramClient()
