@@ -5,4 +5,4 @@ from telethon.sync import TelegramClient
 # Your API details and credentials
 # You can visit this site to gain access to your API credentials -> https://my.telegram.org/auth
 
-api_id = 
+api_id = 'Your api id'
