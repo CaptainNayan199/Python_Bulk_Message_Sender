@@ -18,3 +18,5 @@ client = TelegramClient('my_session',api_id,api_hash)
 
 async def main_function():
     await client.start()
+
+    #
