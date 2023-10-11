@@ -15,3 +15,5 @@ f_username = 'Your friend username'
 # Now create a telegram client
 
 client = TelegramClient('my_session',api_id,api_hash)
+
+async def main_function():
