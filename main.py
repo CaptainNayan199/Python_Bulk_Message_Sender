@@ -2,4 +2,4 @@
 
 from telethon.sync import TelegramClient
 
-#Your API details
+#Your API details and credentials
