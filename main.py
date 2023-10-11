@@ -22,4 +22,4 @@ async def main_function():
     for _ in range(20):
         await client.send_message(f_username, 'Hellloo from Nayan! This message is send by from python')
 
-        await client.dis
+        await client.disconnect()
