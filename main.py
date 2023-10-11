@@ -8,4 +8,4 @@ from telethon.sync import TelegramClient
 api_id = 'Your api id'
 api_hash = 'Your hash value' # you will find this on the above mentioned site.
 
-# Provide your friend's username
+# Provide your friend's username #
