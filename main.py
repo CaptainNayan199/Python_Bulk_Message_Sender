@@ -13,3 +13,5 @@ api_hash = 'Your hash value' # you will find this on the above mentioned site.
 f_username = 'Your friend username'
 
 # Now create a telegram client
+
+client 
