@@ -1,1 +1,1 @@
-# So we are going to see the code on how we can send bulk message in telegram to any group or friends.
+# So we are going to see the code on how we can send bulk message in telegram to any group or friends. #PS: creating this file only for educational purpose
