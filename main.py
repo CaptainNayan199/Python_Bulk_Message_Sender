@@ -20,4 +20,4 @@ async def main_function():
     await client.start()
 
     for _ in range(20):
-        await client.send_message(f_username, 'Hellloo from Nayan! This message is send by Python')
+        await client.send_message(f_username, 'Hellloo from Nayan! This message is send by from python')
