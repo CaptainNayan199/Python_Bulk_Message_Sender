@@ -24,3 +24,4 @@ async def main_function():
         await client.send_message(f_username, 'Hellloo from Nayan! This message is send by from python')
 
         await client.disconnect()
+
