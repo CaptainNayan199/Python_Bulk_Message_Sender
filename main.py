@@ -27,4 +27,4 @@ async def main_function():
 
 if __name__ == "__main__":
     import asyncio
-    asyncio
+    asyncio.run
