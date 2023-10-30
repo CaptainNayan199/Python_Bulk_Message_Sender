@@ -25,4 +25,4 @@ async def main_function():
 
         await client.disconnect()
 
-if __name
+if __name__
